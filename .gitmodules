@@ -1,0 +1,9 @@
+[submodule "broadcast-web"]
+	path = broadcast-web
+	url = git@github.com:chaalpritam/broadcast-web.git
+[submodule "broadcast"]
+	path = broadcast
+	url = git@github.com:chaalpritam/broadcast.git
+[submodule "broadcast-agents"]
+	path = broadcast-agents
+	url = git@github.com:chaalpritam/broadcast-agents.git
